@@ -228,7 +228,7 @@ You can update the paths inside the `Config` class if your files are stored some
 
 This notebook is designed for learning and experimentation. It is not intended for clinical or medical decision-making.
 
-The generated model should not be used to provide medical advice without expert validation.
+The generated model should not be used to provide medical advice without expert validation. This code is created for educational purpose only and for better accuracy a better dataset is required.
 
 For production use, you would need:
 
