@@ -258,19 +258,20 @@ Some useful future improvements include:
 
 ---
 
-## Suggested Repository Name
+## Repository Name
 
 ```text
 pharma-llm-finetuning-huggingface
 ```
 
-Other possible names:
 
-```text
-end-to-end-llm-finetuning-huggingface
-pharma-tinyllama-lora-finetuning
-llm-domain-instruction-preference-tuning
-```
+## Hugging Face Model
+
+The LoRA adapter can be uploaded to Hugging Face Hub.
+
+Example repo:
+
+`samir312/pharma-tinyllama-domain-lora`
 
 ---
 
