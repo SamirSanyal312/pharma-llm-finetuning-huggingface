@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model outputs and checkpoints
+pharma_tinyllama_lora_output/
+pharma_tinyllama_lora_adapter/
+pharma_tinyllama_merged_model/
+pharma_tinyllama_instruction_lora_output/
+pharma_tinyllama_instruction_lora_adapter/
+pharma_tinyllama_instruction_merged_model/
+pharma_processed_data/
+checkpoint-*/
+*.safetensors
+*.bin
+*.pt
+*.pth
+
+# Large local data files
+*.pdf
+*.jsonl
+*.csv
+
+# Hugging Face cache
+.cache/
+hf_cache/
